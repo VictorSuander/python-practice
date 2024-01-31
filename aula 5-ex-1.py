@@ -12,3 +12,5 @@ while True:
         print ("Eleitor Obrigatório")
     elif 16 < Idade < 18 or Idade > 65:
         print ("Eleitor Facultativo")
+    elif 15 < Idade < 17 or Idade > 70:
+        print("acertou misaravi")
